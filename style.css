@@ -1,0 +1,14 @@
+body{ 
+    background-image: url(../images/wall.jpg);
+}
+
+.name {
+    background-color: #4aaaaf;
+    text-align: justify;
+    width: 240px;
+    
+}
+
+.mainContent {
+    width: 960px;
+}

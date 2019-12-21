@@ -1,0 +1,67 @@
+body {
+    background-position: center;
+    background-size: auto;
+    background-image: url(../images/wall.png);
+    color: ivory; 
+    font-family: 'Open Sans Condensed', C;
+    
+}
+.name {
+    color: #5affe7;
+    font-size: 2rem;
+    font-family: 'Fredericka the Great', 'Times New Roman', Times, serif;
+}
+
+.nav-link {
+    color: #5affe7;
+    font-size: 2rem;
+    font-family: 'Fredericka the Great', 'Times New Roman', Times, serif;;
+}
+
+.nav-link:hover {
+    color: #726EFF;
+}
+
+.proPic {
+    width: 350px;
+    height: 250px;
+    margin-top: 1rem;
+    border-radius: 10%;
+   
+
+}
+
+.mainContent {
+    border-radius: 10%;
+    width: auto;
+    height: auto;
+    border-color: #726EFF !important;
+    border-style: solid;
+    background-color: #212b38;
+    margin-top: 2rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 3rem;
+}
+
+.footer{
+    background-color: #37465B;
+    padding: 0px;
+    align-content: center;
+    left: 0;
+    bottom: 0;
+    border-top: 8px solid;
+    border-color: #726EFF; 
+    position: fixed;
+    align-items: center;
+    width: 100%;
+    margin-top: 1rem;
+}
+
+.info{
+    margin-top: 2rem;
+}
+
+p {
+    font-family: 'Roboto Mono', 'monospace';
+}
