@@ -6,6 +6,11 @@ body {
     font-family: 'Open Sans Condensed', C;
     
 }
+
+.navLine{
+    border-bottom: solid #726EFF;
+}
+
 .name {
     color: #5affe7;
     font-size: 2rem;
@@ -64,4 +69,31 @@ body {
 
 p {
     font-family: 'Roboto Mono', 'monospace';
+}
+
+.portJumbo {
+    background-color: #37465B;
+    
+}
+
+.pageMargin {
+    margin-bottom: 5rem;
+}
+
+.card {
+    background-color: #37465B;
+}
+
+.card-img-top {
+    border: solid #726EFF;
+}
+
+.portBtn {
+    background-color: #726eff;
+    color: #5affe7;
+}
+
+.portBtn:hover {
+    background-color: #5affe7;
+    color: #726EFF;
 }
